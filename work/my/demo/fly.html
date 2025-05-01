@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS飞入飞出动画 加速动画 缓入缓出效果</title>
+</head>
+<body>
+ <div id="gift-fly" style=" position: absolute; width: 50px;height: 50px;background-color: #327dff "> 动画盒子</div>
+</body>
+<script>
+    let flyDiv = document.getElementById("gift-fly")
+    animate(flyDiv, {"left": 500}, 3000, "easeIn").then(res => {
+        console.log("飞入动画执行完了")
+        animate(flyDiv, {"left": 0}, 3000, "easeOut").then(res => {
+            console.log("飞出动画执行完了")
+        })
+    })
+
+    /**
+     * @param elem {HTMLElement} 执行动画的HTML元素
+     * @param params {JSON} 动画执行过过程中需要修改的HTML属性
+     * @param duration {Number} 可选，动画执行时间，单位毫秒
+     * @param easing {String} 可选，动画执行的方式，缓入easeIn、缓出easeOut
+     */
+    function animate(elem, params, duration, easing) {
+        return new Promise(success => {
+            /*
+             * 描述: tween动画算法。
+             * @param Number t: 动画已经执行的时间（实际上时执行多少次/帧数）
+             * @param Number b: 起始位置
+             * @param Number c: 终止位置
+             * @param Number d: 从起始位置到终止位置的经过时间（实际上时执行多少次/帧数）
+             */
+            let tween = {
+                easeIn: function (t, b, c, d) {//缓入
+                    return c * (t /= d) * t + b;
+                },
+                easeOut: function (t, b, c, d) {//缓出
+                    return -c * (t /= d) * (t - 2) + b;
+                }
+            };
+            let attribute = {
+                get: function (elem, attr) {
+                    let val;
+                    if (elem.currentStyle) {
+                        if (attr === "opacity") {
+                            val = elem.filters.alpha[attr];
+                        } else {
+                            val = elem.currentStyle[attr];
+                        }
+                    } else {
+                        val = getComputedStyle(elem)[attr];
+                        if (attr === "opacity") {
+                            val = 100 * val;
+                        }
+                    }
+                    return val;
+                },
+                set: function (elem, attr, val) {
+                    if (attr == 'opacity') {
+                        elem.style.filter = 'alpha(opacity=' + (val) + ')';
+                        elem.style.opacity = (val) / 100;
+                    } else {
+                        elem.style[attr] = val + 'px';
+                    }
+                }
+            };
+            let effect = {
+                animate: function (elem, params, duration, easing) {
+                    let dt = new Date().getTime(),
+                        b = 0,
+                        c = 0,
+                        d = duration || 500,
+                        fps = 1000 / 60;
+
+                    let changes = [];
+
+                    for (let attr in params) {
+                        b = parseFloat(attribute.get(elem, attr));
+                        c = params[attr] - b;
+
+                        changes.push({
+
+                            attr: attr,
+
+                            b: b,
+
+                            c: c
+                        });
+                    }
+
+                    easing = easing || "easeOut";
+                    setTimeout(function () {
+                        let t = new Date().getTime() - dt;
+                        let b, c, attr;
+                        for (let i = 0; i < changes.length; i++) {
+                            b = changes[i].b;
+                            c = changes[i].c;
+                            attr = changes[i].attr;
+
+                            attribute.set(elem, attr, tween[easing](t, b, c, d));
+                            if (d <= t) {
+                                attribute.set(elem, attr, params[attr]);
+                                success();
+                                return;
+                            }
+                        }
+                        setTimeout(arguments.callee, fps);
+                    }, fps);
+                }
+            };
+            effect.animate(elem, params, duration, easing);
+        })
+    }
+</script>
+</html>

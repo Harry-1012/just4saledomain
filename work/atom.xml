@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>📂HarryStudio</title>
+  
+  <subtitle>Ai应用开发 独立开发 移动应用开发 Python开发 小程序开发 H5开发 公众号开发 微信开发 青岛 </subtitle>
+  <link href="https://harrywork.com/work/atom.xml" rel="self"/>
+  
+  <link href="https://harrywork.com/work/"/>
+  <updated>2025-03-01T02:02:26.474Z</updated>
+  <id>https://harrywork.com/work/</id>
+  
+  <author>
+    <name>Harry</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ai证件照合成,图片修改文字,一键换发型</title>
+    <link href="https://harrywork.com/work/p/aizhengjianzhao/"/>
+    <id>https://harrywork.com/work/p/aizhengjianzhao/</id>
+    <published>2025-04-30T16:00:00.000Z</published>
+    <updated>2025-03-01T02:02:26.474Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>ComfyUi</li><li>极速证件照生成</li><li>一键换装,换发型等</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/aizhengjianzhao/1.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/aizhengjianzhao/2.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/aizhengjianzhao/3.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/aizhengjianzhao/4.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/aizhengjianzhao/5.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/aizhengjianzhao/6.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/aizhengjianzhao/7.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;ComfyUi&lt;/li&gt;
+&lt;li&gt;极速证件照生成&lt;/li&gt;
+&lt;li&gt;一键换装,换发型等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gallery-container&quot; data-type=&quot;data&quot; data-button=&quot;&quot; data-limit=&quot;1</summary>
+      
+    
+    
+    
+    <category term="Ai" scheme="https://harrywork.com/work/categories/Ai/"/>
+    
+    
+    <category term="IT科技" scheme="https://harrywork.com/work/tags/IT%E7%A7%91%E6%8A%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>视频批量融帧剪辑特效自动化助手</title>
+    <link href="https://harrywork.com/work/p/shipinrongzhenchajian/"/>
+    <id>https://harrywork.com/work/p/shipinrongzhenchajian/</id>
+    <published>2025-03-01T16:00:00.000Z</published>
+    <updated>2025-03-01T02:07:09.931Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p>视频处理：可设置视频源目录、拍摄视频目录、输出目录；支持批量处理，能设置插帧浮动、间隔帧数、跳过开始帧数等参数。</p></li><li><p>文字配置：可开启在视频上、中、下位置加文字，设置字体大小、颜色、位置、加粗、描边粗细及颜色，还能选择字体文件。</p></li><li><p>尺寸放大：图片未明确展示，但推测应有相关功能。</p></li><li><p>视频转图片：选择视频目录和图片输出目录，可按视频保存，将分离图片存到对应视频名字文件夹，或全部输出到指定目录。</p></li><li><p>系统配置：可选择硬件加速模式为 CPU，可开启解码、编码硬件加速并保存配置。</p></li><li><p>账号与视频管理：选择账号文件夹，可删除原视频；支持定时发布，设置封面图模式。</p></li><li><p>上传设置：设置上传超时时间、账号单次上传视频数量、账号循环次数。</p></li><li><p>任务执行：可查看任务执行状态，包括当前文件夹信息、各账号视频数量等，可停止任务执行。</p></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/2025/shipinrongzhenchajian/1.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/2025/shipinrongzhenchajian/2.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/2025/shipinrongzhenchajian/3.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/2025/shipinrongzhenchajian/4.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/2025/shipinrongzhenchajian/5.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;视频处理：可设置视频源目录、拍摄视频目录、输出目录；支持批量处理，能设置插帧浮动、间隔帧数、跳过开始帧数等参数。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;文字配置：可开启在视频上、中、下位置加文字，设置字体大小、颜色、位置、加粗、描边粗细及颜色，还能选择字体文件</summary>
+      
+    
+    
+    
+    <category term="软件" scheme="https://harrywork.com/work/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="IT科技" scheme="https://harrywork.com/work/tags/IT%E7%A7%91%E6%8A%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ai克隆数字人 数字人生</title>
+    <link href="https://harrywork.com/work/p/shuzirenshengaikelong2025/"/>
+    <id>https://harrywork.com/work/p/shuzirenshengaikelong2025/</id>
+    <published>2025-01-29T16:00:00.000Z</published>
+    <updated>2025-01-09T02:38:47.239Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>自建数字人，自动克隆你的声音，克隆你的人像人脸</li><li>Ai配音融合数字人</li><li>数字人生，创意无限</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/1.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/2.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/3.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/4.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/5.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/6.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/7.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/8.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/9.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/10.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/11.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/12.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/13.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/14.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/15.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/16.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/17.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/18.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/19.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/20.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/21.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/22.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/23.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/24.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/25.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/26.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/27.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shuziren/qr_code.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;自建数字人，自动克隆你的声音，克隆你的人像人脸&lt;/li&gt;
+&lt;li&gt;Ai配音融合数字人&lt;/li&gt;
+&lt;li&gt;数字人生，创意无限&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gallery-container&quot; data-type=&quot;data&quot; data-butto</summary>
+      
+    
+    
+    
+    <category term="Ai" scheme="https://harrywork.com/work/categories/Ai/"/>
+    
+    
+    <category term="IT科技" scheme="https://harrywork.com/work/tags/IT%E7%A7%91%E6%8A%80/"/>
+    
+    <category term="Ai模型" scheme="https://harrywork.com/work/tags/Ai%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>模板海报在线PS</title>
+    <link href="https://harrywork.com/work/p/mubanhaibaopsmini/"/>
+    <id>https://harrywork.com/work/p/mubanhaibaopsmini/</id>
+    <published>2024-10-31T16:00:00.000Z</published>
+    <updated>2025-01-08T13:48:28.570Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>自建Ai</li><li>高质量P图改字,水墨字生成</li><li>图片改字,PDF改字</li><li>换脸&#x2F;写真合成</li><li>PSD文件导入,在线PS</li><li>擦除背景&#x2F;提高清晰度&#x2F;老照片上色&#x2F;手稿填色&#x2F;Ai头像盲盒等</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/mubanhaibaopsmini/1.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/mubanhaibaopsmini/2.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/mubanhaibaopsmini/3.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/mubanhaibaopsmini/4.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/mubanhaibaopsmini/5.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/mubanhaibaopsmini/6.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/mubanhaibaopsmini/7.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/mubanhaibaopsmini/8.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;自建Ai&lt;/li&gt;
+&lt;li&gt;高质量P图改字,水墨字生成&lt;/li&gt;
+&lt;li&gt;图片改字,PDF改字&lt;/li&gt;
+&lt;li&gt;换脸&amp;#x2F;写真合成&lt;/li&gt;
+&lt;li&gt;PSD文件导入,在线PS&lt;/li&gt;
+&lt;li&gt;擦除背景&amp;#x2F;提高清晰度&amp;#x2F;老照片上色&amp;#x2</summary>
+      
+    
+    
+    
+    <category term="Ai" scheme="https://harrywork.com/work/categories/Ai/"/>
+    
+    
+    <category term="IT科技" scheme="https://harrywork.com/work/tags/IT%E7%A7%91%E6%8A%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>抖音答题游戏</title>
+    <link href="https://harrywork.com/work/p/douyindatixiaoyouxi/"/>
+    <id>https://harrywork.com/work/p/douyindatixiaoyouxi/</id>
+    <published>2024-08-31T16:00:00.000Z</published>
+    <updated>2025-01-08T10:37:13.974Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>抖音视频广告激励答题小游戏,抖音直播小游戏</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/douyindatixiaoyouxi/1.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/douyindatixiaoyouxi/2.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/app/douyindatixiaoyouxi/3.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;抖音视频广告激励答题小游戏,抖音直播小游戏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gallery-container&quot; data-type=&quot;data&quot; data-button=&quot;&quot; data-limit=&quot;10&quot; data-first=&quot;10&quot;&gt;
+  </summary>
+      
+    
+    
+    
+    <category term="小游戏" scheme="https://harrywork.com/work/categories/%E5%B0%8F%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="社交" scheme="https://harrywork.com/work/tags/%E7%A4%BE%E4%BA%A4/"/>
+    
+    <category term="文娱" scheme="https://harrywork.com/work/tags/%E6%96%87%E5%A8%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>视频生成字幕Ai助手</title>
+    <link href="https://harrywork.com/work/p/shipin_zhuan_wenzi/"/>
+    <id>https://harrywork.com/work/p/shipin_zhuan_wenzi/</id>
+    <published>2024-02-29T16:00:00.000Z</published>
+    <updated>2025-01-08T13:42:41.190Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>视频提取,短视频去水印</li><li>视频下载工具,视频转文字帮手</li><li>图片&#x2F;音频&#x2F;转文字,字幕提取</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shipin_zhuan_wenzi/shipin_zhuan_wenzi1.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shipin_zhuan_wenzi/shipin_zhuan_wenzi2.jpg","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shipin_zhuan_wenzi/shipin_zhuan_wenzi.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/shipin_zhuan_wenzi/shipin_zhuan_wenzi_qr.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;视频提取,短视频去水印&lt;/li&gt;
+&lt;li&gt;视频下载工具,视频转文字帮手&lt;/li&gt;
+&lt;li&gt;图片&amp;#x2F;音频&amp;#x2F;转文字,字幕提取&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gallery-container&quot; data-type=&quot;data&quot; da</summary>
+      
+    
+    
+    
+    <category term="Ai" scheme="https://harrywork.com/work/categories/Ai/"/>
+    
+    
+    <category term="IT科技" scheme="https://harrywork.com/work/tags/IT%E7%A7%91%E6%8A%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>扫码点单智慧门店-商家端</title>
+    <link href="https://harrywork.com/work/p/yld_merch/"/>
+    <id>https://harrywork.com/work/p/yld_merch/</id>
+    <published>2023-03-31T16:00:00.000Z</published>
+    <updated>2025-01-08T13:32:38.693Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>线上小店&#x2F;扫码点单&#x2F;支持数字人民币收单&#x2F;商户账本&#x2F;订单统计&#x2F;分润统计&#x2F;会员管理</li><li>奖励金&#x2F;储值卡&#x2F;会员卡&#x2F;小票打印&#x2F;商品入库扫描&#x2F;生成收单码</li><li>商品&#x2F;订单管理,结算结算,到账语音播报,账单报表统计,店铺设置等功能</li><li>商家推新奖励系统,商家分润系统,商家可邀请新用户成为分润会员,会员在商家支付可得金豆分润奖励</li><li><a href="https://app.mi.com/details?id=com.angyakeji.yld">Android:https://app.mi.com/details?id=com.angyakeji.yld</a></li><li><a href="https://apps.apple.com/cn/app/%E4%BD%99%E4%B9%90%E5%85%91%E5%95%86%E5%AE%B6%E7%AB%AF/id1582585058">IOS:https://apps.apple.com/cn/app/%E4%BD%99%E4%B9%90%E5%85%91%E5%95%86%E5%AE%B6%E7%AB%AF/id1582585058</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/yu_le_dui_mer/yu_le_dui.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/yu_le_dui_mer/yu_le_dui1.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/yu_le_dui_mer/yu_le_dui2.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/yu_le_dui_mer/yu_le_dui3.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/yu_le_dui_mer/yu_le_dui4.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;线上小店&amp;#x2F;扫码点单&amp;#x2F;支持数字人民币收单&amp;#x2F;商户账本&amp;#x2F;订单统计&amp;#x2F;分润统计&amp;#x2F;会员管理&lt;/li&gt;
+&lt;li&gt;奖励金&amp;#x2F;储值卡&amp;#x2F;会员卡&amp;#x2F;小票打印&amp;#x2F;商品入库扫描&amp;#x2F;生成收</summary>
+      
+    
+    
+    
+    <category term="APP" scheme="https://harrywork.com/work/categories/APP/"/>
+    
+    
+    <category term="商家自营" scheme="https://harrywork.com/work/tags/%E5%95%86%E5%AE%B6%E8%87%AA%E8%90%A5/"/>
+    
+    <category term="生活服务" scheme="https://harrywork.com/work/tags/%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>扫码点单智慧门店-用户端</title>
+    <link href="https://harrywork.com/work/p/yuledui/"/>
+    <id>https://harrywork.com/work/p/yuledui/</id>
+    <published>2023-03-31T16:00:00.000Z</published>
+    <updated>2025-01-08T13:32:38.687Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>扫码点单智慧门店线下扫码点单系统</li><li>金豆红包营销系统,金豆抵扣现金,用户线上&#x2F;线上购物获得金豆,分享邀请得金豆,任务签到得金豆,用户间金豆互赠</li><li>储值卡功能,优惠券功能,点评系统,附近商家等</li><li>通兑系统:支持三方积分系统接入,原三方用户积分可兑换为扫码点单智慧门店积分</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/yu_le_dui/yu_le_dui1.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/yu_le_dui/yu_le_dui2.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/yu_le_dui/yu_le_dui.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/yu_le_dui/yu_le_dui_qr.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;扫码点单智慧门店线下扫码点单系统&lt;/li&gt;
+&lt;li&gt;金豆红包营销系统,金豆抵扣现金,用户线上&amp;#x2F;线上购物获得金豆,分享邀请得金豆,任务签到得金豆,用户间金豆互赠&lt;/li&gt;
+&lt;li&gt;储值卡功能,优惠券功能,点评系统,附近商家等&lt;/li&gt;
+&lt;li&gt;通兑系统:</summary>
+      
+    
+    
+    
+    <category term="小程序" scheme="https://harrywork.com/work/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="商家自营" scheme="https://harrywork.com/work/tags/%E5%95%86%E5%AE%B6%E8%87%AA%E8%90%A5/"/>
+    
+    <category term="生活服务" scheme="https://harrywork.com/work/tags/%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>扫码点单智慧门店-推广人</title>
+    <link href="https://harrywork.com/work/p/yld_spread/"/>
+    <id>https://harrywork.com/work/p/yld_spread/</id>
+    <published>2023-01-31T16:00:00.000Z</published>
+    <updated>2025-01-08T13:32:18.624Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>商家进件功能,商家收单码生成打印</li><li>推广人金豆分润系统,成为推广人后可邀请商家入驻,可获得商家赠送金豆对应奖励金</li><li>实时统计商家交易数据,帮助推广人更好的走访商家</li><li>推广人名下商户结算,收单,推新,优惠统计,商户维护相关功能</li><li><a href="https://yld.angyakeji.com/api/spread/public/view/download">Android:https://yld.angyakeji.com/api/spread/public/view/download</a></li><li>微信小程序-扫码点单智慧门店推广人</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/yu_le_dui_spread/yu_le_dui.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/yu_le_dui_spread/yu_le_dui1.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;商家进件功能,商家收单码生成打印&lt;/li&gt;
+&lt;li&gt;推广人金豆分润系统,成为推广人后可邀请商家入驻,可获得商家赠送金豆对应奖励金&lt;/li&gt;
+&lt;li&gt;实时统计商家交易数据,帮助推广人更好的走访商家&lt;/li&gt;
+&lt;li&gt;推广人名下商户结算,收单,推新,优惠统计,商户维</summary>
+      
+    
+    
+    
+    <category term="APP" scheme="https://harrywork.com/work/categories/APP/"/>
+    
+    
+    <category term="商业服务" scheme="https://harrywork.com/work/tags/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/"/>
+    
+    <category term="商家自营" scheme="https://harrywork.com/work/tags/%E5%95%86%E5%AE%B6%E8%87%AA%E8%90%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>码上点餐</title>
+    <link href="https://harrywork.com/work/p/qr_code_order/"/>
+    <id>https://harrywork.com/work/p/qr_code_order/</id>
+    <published>2022-02-02T16:00:00.000Z</published>
+    <updated>2025-01-08T10:42:07.896Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>扫描餐桌二维码点餐</li><li>附近商家展示</li><li>桌台预约</li><li>在线点餐</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/Ordering/Ordering.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/Ordering/orderingQR_qr.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;扫描餐桌二维码点餐&lt;/li&gt;
+&lt;li&gt;附近商家展示&lt;/li&gt;
+&lt;li&gt;桌台预约&lt;/li&gt;
+&lt;li&gt;在线点餐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gallery-container&quot; data-type=&quot;data&quot; data-button=&quot;&quot; dat</summary>
+      
+    
+    
+    
+    <category term="小程序" scheme="https://harrywork.com/work/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="商家自营" scheme="https://harrywork.com/work/tags/%E5%95%86%E5%AE%B6%E8%87%AA%E8%90%A5/"/>
+    
+    <category term="餐饮服务" scheme="https://harrywork.com/work/tags/%E9%A4%90%E9%A5%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>轻旅圈Lite</title>
+    <link href="https://harrywork.com/work/p/qing_lv_quan/"/>
+    <id>https://harrywork.com/work/p/qing_lv_quan/</id>
+    <published>2021-12-31T16:00:00.000Z</published>
+    <updated>2025-01-08T10:42:07.891Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>在 Outing Travel 轻旅圈，我们致力于打造一个专注于青年旅行爱好者的旅行互助社区，从而让你能够在他人的帮助或参与下，开启自己期待已久的精彩旅程。期待有趣有想法的你们在 Outing 启发彼此，互相帮助，从而建立更多有心有意义的旅行连接 😊</li><li>介绍:<a href="http://www.sohu.com/a/218045743_720705">http://www.sohu.com/a/218045743_720705</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/outing/outing.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/outing/outingTravel_qr.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;在 Outing Travel 轻旅圈，我们致力于打造一个专注于青年旅行爱好者的旅行互助社区，从而让你能够在他人的帮助或参与下，开启自己期待已久的精彩旅程。期待有趣有想法的你们在 Outing 启发彼此，互相帮助，从而建立更多有心有意义的旅行连接 😊&lt;/li&gt;</summary>
+      
+    
+    
+    
+    <category term="小程序" scheme="https://harrywork.com/work/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="社交" scheme="https://harrywork.com/work/tags/%E7%A4%BE%E4%BA%A4/"/>
+    
+    <category term="旅游服务" scheme="https://harrywork.com/work/tags/%E6%97%85%E6%B8%B8%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>新视窗家政服务</title>
+    <link href="https://harrywork.com/work/p/xinshichuang/"/>
+    <id>https://harrywork.com/work/p/xinshichuang/</id>
+    <published>2021-09-30T16:00:00.000Z</published>
+    <updated>2025-01-08T10:42:07.891Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>新视窗家政生活服务平台,在线预约服务,分配师傅</li><li>金牌服务&#x2F;师傅入驻,家政付费教学视频</li><li>在线技能考核,同城商家优惠券,分销推广返利</li><li>Android:<a href="https://sj.qq.com/myapp/detail.htm?apkName=jiazhengzhitongche.huangzong.app">https://sj.qq.com/myapp/detail.htm?apkName=jiazhengzhitongche.huangzong.app</a></li><li>Apple:<a href="https://apps.apple.com/us/app/id1575485983">https://apps.apple.com/us/app/id1575485983</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/SgXinShiChuang/SgXinShiChuang.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/SgXinShiChuang/SgXinShiChuang1.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;新视窗家政生活服务平台,在线预约服务,分配师傅&lt;/li&gt;
+&lt;li&gt;金牌服务&amp;#x2F;师傅入驻,家政付费教学视频&lt;/li&gt;
+&lt;li&gt;在线技能考核,同城商家优惠券,分销推广返利&lt;/li&gt;
+&lt;li&gt;Android:&lt;a href=&quot;https://sj.qq.com</summary>
+      
+    
+    
+    
+    <category term="APP" scheme="https://harrywork.com/work/categories/APP/"/>
+    
+    
+    <category term="商家自营" scheme="https://harrywork.com/work/tags/%E5%95%86%E5%AE%B6%E8%87%AA%E8%90%A5/"/>
+    
+    <category term="生活服务" scheme="https://harrywork.com/work/tags/%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>婚礼百科问答</title>
+    <link href="https://harrywork.com/work/p/hun_li_baike/"/>
+    <id>https://harrywork.com/work/p/hun_li_baike/</id>
+    <published>2021-08-31T16:00:00.000Z</published>
+    <updated>2025-01-08T13:23:38.798Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>澳洲婚礼百科今日焦点</li><li>婚礼咨询&#x2F;婚礼博文</li><li>婚礼百科知识</li><li>官网:<a href="http://labride.com.cn/">http://labride.com.cn</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/steven/steven.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/steven/steven2.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/steven/labride_qr.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;澳洲婚礼百科今日焦点&lt;/li&gt;
+&lt;li&gt;婚礼咨询&amp;#x2F;婚礼博文&lt;/li&gt;
+&lt;li&gt;婚礼百科知识&lt;/li&gt;
+&lt;li&gt;官网:&lt;a href=&quot;http://labride.com.cn/&quot;&gt;http://labride.com.cn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul</summary>
+      
+    
+    
+    
+    <category term="小程序" scheme="https://harrywork.com/work/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="资讯" scheme="https://harrywork.com/work/tags/%E8%B5%84%E8%AE%AF/"/>
+    
+    <category term="生活服务" scheme="https://harrywork.com/work/tags/%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>早早快购-新西兰</title>
+    <link href="https://harrywork.com/work/p/zaozao_kuaigou/"/>
+    <id>https://harrywork.com/work/p/zaozao_kuaigou/</id>
+    <published>2021-07-10T16:00:00.000Z</published>
+    <updated>2025-01-08T10:42:07.891Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>每天为国际游客提供最优质的当地旅游服务和景点推广服务</li><li>购物特产&#x2F;酒店住宿</li><li>餐饮美食&#x2F;交通出行</li><li>活动演出&#x2F;景点观光</li><li>日常服务&#x2F;旅游商服</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/zaozaokuaigou/zaozaokuaigou1.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/zaozaokuaigou/zaozaokuaigou.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/zaozaokuaigou/zaozaokuaigou2.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/zaozaokuaigou/zaozaokuaigou_qr.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;每天为国际游客提供最优质的当地旅游服务和景点推广服务&lt;/li&gt;
+&lt;li&gt;购物特产&amp;#x2F;酒店住宿&lt;/li&gt;
+&lt;li&gt;餐饮美食&amp;#x2F;交通出行&lt;/li&gt;
+&lt;li&gt;活动演出&amp;#x2F;景点观光&lt;/li&gt;
+&lt;li&gt;日常服务&amp;#x2F;旅游商服&lt;/li&gt;
+&lt;/u</summary>
+      
+    
+    
+    
+    <category term="小程序" scheme="https://harrywork.com/work/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="电商平台" scheme="https://harrywork.com/work/tags/%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0/"/>
+    
+    <category term="旅游服务" scheme="https://harrywork.com/work/tags/%E6%97%85%E6%B8%B8%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>垃圾分类的微信小游戏</title>
+    <link href="https://harrywork.com/work/p/laji_fenlei/"/>
+    <id>https://harrywork.com/work/p/laji_fenlei/</id>
+    <published>2020-07-09T16:00:00.000Z</published>
+    <updated>2025-01-08T13:32:18.619Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>学习垃圾分类的微信掉落小游戏</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/lajifenlei/lajifenlei.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/lajifenlei/lajifenlei_qr.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+    <summary type="html">学习垃圾分类的微信掉落小游戏</summary>
+    
+    
+    
+    <category term="小游戏" scheme="https://harrywork.com/work/categories/%E5%B0%8F%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="文娱" scheme="https://harrywork.com/work/tags/%E6%96%87%E5%A8%B1/"/>
+    
+    <category term="生活服务" scheme="https://harrywork.com/work/tags/%E7%94%9F%E6%B4%BB%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>早早云剧-新西兰</title>
+    <link href="https://harrywork.com/work/p/zaozao_yunju/"/>
+    <id>https://harrywork.com/work/p/zaozao_yunju/</id>
+    <published>2019-12-31T16:00:00.000Z</published>
+    <updated>2025-01-08T13:32:38.687Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>新西兰在线剧场-付费视频订阅购买</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/zaozaoyunju/zaozaoyunju.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/zaozaoyunju/zaozaoyunju_qr.jpg","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+    <summary type="html">新西兰在线剧场-付费视频订阅购买</summary>
+    
+    
+    
+    <category term="小程序" scheme="https://harrywork.com/work/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="电商平台" scheme="https://harrywork.com/work/tags/%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0/"/>
+    
+    <category term="文娱" scheme="https://harrywork.com/work/tags/%E6%96%87%E5%A8%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>集果采集商城</title>
+    <link href="https://harrywork.com/work/p/jiguo_caiji/"/>
+    <id>https://harrywork.com/work/p/jiguo_caiji/</id>
+    <published>2019-12-30T16:00:00.000Z</published>
+    <updated>2025-01-08T13:23:38.798Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>国内外优质果蔬批发,订购平台</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/jiguocaiji/jiguocaiji.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/jiguocaiji/jiguocaiji_qr.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+    <summary type="html">国内外优质果蔬批发,订购平台</summary>
+    
+    
+    
+    <category term="小程序" scheme="https://harrywork.com/work/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="电商平台" scheme="https://harrywork.com/work/tags/%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0/"/>
+    
+    <category term="商家自营" scheme="https://harrywork.com/work/tags/%E5%95%86%E5%AE%B6%E8%87%AA%E8%90%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>换马加油-虚-拟-货-币走势</title>
+    <link href="https://harrywork.com/work/p/huanma_jiayou/"/>
+    <id>https://harrywork.com/work/p/huanma_jiayou/</id>
+    <published>2019-11-30T16:00:00.000Z</published>
+    <updated>2025-01-08T13:32:18.619Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>换马加油站是一个投资加-密-虚-拟币专用小工具</li><li>TokenParticle 是一个专注于区-块-链方向的投资研究机构,定期发布海外项目分析文章，并且还会不断推出投资小工具</li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/paomaJiaYou/paomaJiaYou.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/paomaJiaYou/huanmajiayou_qr.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;换马加油站是一个投资加-密-虚-拟币专用小工具&lt;/li&gt;
+&lt;li&gt;TokenParticle 是一个专注于区-块-链方向的投资研究机构,定期发布海外项目分析文章，并且还会不断推出投资小工具&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gallery-conta</summary>
+      
+    
+    
+    
+    <category term="小程序" scheme="https://harrywork.com/work/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="金融业" scheme="https://harrywork.com/work/tags/%E9%87%91%E8%9E%8D%E4%B8%9A/"/>
+    
+    <category term="资讯" scheme="https://harrywork.com/work/tags/%E8%B5%84%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flick Post-马来西亚</title>
+    <link href="https://harrywork.com/work/p/flick_post/"/>
+    <id>https://harrywork.com/work/p/flick_post/</id>
+    <published>2019-06-06T16:00:00.000Z</published>
+    <updated>2025-01-08T10:36:52.205Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>寄快递,快递查询</li><li>快递商家入驻</li><li>运费计算器</li><li>危险品违禁品查询</li><li>Flickpost:<a href="http://flickpost.co/">http://flickpost.co/</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/flickpost/flickpost.png","alt":"","title":""},{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/wechat/flickpost/flickpost_qr.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;寄快递,快递查询&lt;/li&gt;
+&lt;li&gt;快递商家入驻&lt;/li&gt;
+&lt;li&gt;运费计算器&lt;/li&gt;
+&lt;li&gt;危险品违禁品查询&lt;/li&gt;
+&lt;li&gt;Flickpost:&lt;a href=&quot;http://flickpost.co/&quot;&gt;http://flickpost.co/&lt;/a</summary>
+      
+    
+    
+    
+    <category term="小程序" scheme="https://harrywork.com/work/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+    
+    <category term="商业服务" scheme="https://harrywork.com/work/tags/%E5%95%86%E4%B8%9A%E6%9C%8D%E5%8A%A1/"/>
+    
+    <category term="物流服务" scheme="https://harrywork.com/work/tags/%E7%89%A9%E6%B5%81%E6%9C%8D%E5%8A%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Albert LaCubeTV App-新西兰</title>
+    <link href="https://harrywork.com/work/p/LaCubeTV/"/>
+    <id>https://harrywork.com/work/p/LaCubeTV/</id>
+    <published>2018-04-12T16:00:00.000Z</published>
+    <updated>2025-01-08T13:23:38.798Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>SPB为您专业提供最专业的：</li><li>腾讯跨境高清商业直播</li><li>Facebook &#x2F; Youtube 高清商业直播</li><li>RTMP 高清商业直播</li><li>Facebook 24小时电视直播服务</li><li><a href="https://github.com/Harry-1012/OSS/raw/master/Download/App/SPB2U%20%E7%9B%B4%E6%92%AD.apk">Android下载地址</a></li></ul><div class="gallery-container" data-type="data" data-button="" data-limit="10" data-first="10">    <div class="gallery-items">[{"url":"https://ihogu-1251903635.cos.ap-shanghai.myqcloud.com/site/work/h5/ABGSYUK/ABGSYUK.png","alt":"","title":""}]</div>  </div><p><a href="javascript:history.go(-1)">⬅返回上页</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;SPB为您专业提供最专业的：&lt;/li&gt;
+&lt;li&gt;腾讯跨境高清商业直播&lt;/li&gt;
+&lt;li&gt;Facebook &amp;#x2F; Youtube 高清商业直播&lt;/li&gt;
+&lt;li&gt;RTMP 高清商业直播&lt;/li&gt;
+&lt;li&gt;Facebook 24小时电视直播服务&lt;/li&gt;
+&lt;</summary>
+      
+    
+    
+    
+    <category term="APP" scheme="https://harrywork.com/work/categories/APP/"/>
+    
+    
+    <category term="社交" scheme="https://harrywork.com/work/tags/%E7%A4%BE%E4%BA%A4/"/>
+    
+    <category term="文娱" scheme="https://harrywork.com/work/tags/%E6%96%87%E5%A8%B1/"/>
+    
+  </entry>
+  
+</feed>
