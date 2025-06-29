@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Eve月经历史</title>
+    <!-- 引入样式文件 -->
+    <link
+      href="https://cdn.bootcdn.net/ajax/libs/vant/4.9.15/index.min.css"
+      rel="stylesheet"
+    />
+    
+    <link rel="shortcut icon" href="../res/img/eveac.ico" type="image/x-icon" />
+    <style>
+      #app div a button {
+        margin-bottom: 16px;
+      }
+
+      #container {
+        max-height: 800px !important;
+      }
+      #chart-controls {
+        text-align: center;
+        margin-top: 10px;
+      }
+      #chart-controls .van-button {
+        margin: 0 5px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="app">
+      <van-tabs :active="active" @change="onChange">
+        <van-tab title="历史">
+          <van-field
+            v-model="year_search"
+            center
+            :clearable="true"
+            label="年份:"
+            placeholder="输入年份进行检索"
+            type="number"
+            clickable
+            style="margin: 0 auto"
+            @input="searchByYear"
+            left-icon="notes-o"
+            label-width="45"
+            @focus="searchInputFocus"
+          >
+          </van-field>
+
+          <van-cell
+            v-for="(item, index) in list"
+            :key="index"
+            center
+            :title="getTimes(index)"
+            :value="'日期:'+item.last_time_date_f"
+            :label="timeSum(index)"
+          />
+        </van-tab>
+ 
+      </van-tabs>
+    </div>
+  </body>
+  <script src="https://cdn.bootcdn.net/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <!-- 引入 Vue 和 Vant 的 JS 文件 -->
+  <script src="https://cdn.bootcdn.net/ajax/libs/vue/2.6.11/vue.min.js"></script>
+  <script src="https://cdn.bootcdn.net/ajax/libs/vant/2.12.41/vant.min.js"></script>
+
+  <script>
+    let that = {};
+    var listData = [];
+    new Vue({
+      el: "#app",
+      data() {
+        return {
+          year_search: "",
+          active: 0,
+          list: [],
+          list_yuji: [],
+          startDate: new Date(new Date().setMonth(new Date().getMonth() - 12)),
+        };
+      },
+      mounted() {},
+      created() {
+        that = this;
+        this.init();
+      },
+      methods: {
+        searchInputFocus(e) {},
+        searchByYear(e) {
+          if (e) {
+            let newData = [];
+            for (let i = 0; i <= listData.length - 1; i++) {
+              console.log(i);
+              if (listData[i].last_time_date_f.indexOf(e) > -1) {
+                newData.push(listData[i]);
+              }
+            }
+            that.list = newData;
+          } else {
+            that.list = listData;
+          }
+        },
+        init() {
+          $.ajax({
+            type: "GET",
+            url: "ym.json", // 修改为本地JSON文件路径
+            dataType: "json",
+            success: function (data) {
+              listData = data.map((item, index, arr) => {
+                let currentDate = new Date(item.last_time);
+                let nextDate =
+                  index < arr.length - 1
+                    ? new Date(arr[index + 1].last_time)
+                    : null;
+
+                let diffDays;
+                if (nextDate) {
+                  diffDays = Math.abs(
+                    Math.round((currentDate - nextDate) / (1000 * 3600 * 24))
+                  );
+                } else {
+                  diffDays = 28; // Default to 28 days if no next date
+                }
+
+                return {
+                  ...item,
+                  diff_days: diffDays,
+                  last_time_date_f: currentDate.toISOString().split("T")[0],
+                };
+              });
+
+              that.list = listData;
+
+              // Calculate the next expected date
+              if (listData.length > 0) {
+                let first = JSON.parse(JSON.stringify(listData[0]));
+                let date = new Date(first.last_time_date_f);
+                date.setDate(date.getDate() + first.diff_days);
+
+                if (!isNaN(date.getTime())) {
+                  first.last_time_date_f = date.toISOString().split("T")[0];
+                  that.list.unshift(first);
+                } else {
+                  console.error("Invalid date value:", first.last_time_date_f);
+                }
+              }
+            },
+          });
+        },
+        onChange(e, f) {
+          if (e == 1) {
+            setTimeout(function () {
+              that.initChart();
+            }, 500);
+          }
+        },
+        getTimes(index) {
+          let str = "";
+          if (index === 0) {
+            str = "下次: "+ this.list[index].last_time_date_f + " ";
+          }
+          return str + "第" + (this.list.length - index + 120) + "次";
+        },
+        getTimes2(index) {
+          return "第" + (this.list.length - index + 121) + "次";
+        },
+        timeSum(index) {
+          return "间隔:" + this.list[index].diff_days + "天";
+        },
+        onClickLeft() {
+          history.go(-1);
+        },
+         
+      },
+    });
+
+    window.onload = function () {
+      document
+        .querySelectorAll(".van-field__control")[0]
+        .addEventListener("focus", function () {
+          this.type = "number";
+        });
+    };
+  </script>
+</html>

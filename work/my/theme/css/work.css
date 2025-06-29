@@ -1,0 +1,37 @@
+/* 首页左右图片 */
+#recent-posts>.recent-post-item>.recent-post-info {
+    /* width: 45%; */
+}
+
+#recent-posts>.recent-post-item .post_cover {
+    /* width: 55%; */
+}
+
+/* 右侧 作者名 */
+#aside-content .author-info__name {
+    /* display: none; */
+}
+/* 右侧description */
+#aside-content .author-info__description{
+  /* display: none; */
+}
+
+/* 首页图片 */
+#recent-posts>.recent-post-item .post_cover .post-bg {
+    object-fit: contain;
+}
+
+/* 发表时间 */
+.post-meta-date {
+    display: none;
+}
+
+/* post详情页 meta发表时间后的 竖线 | */
+#post-info #post-meta .post-meta-separator:nth-child(1) {
+    display: none;
+}
+
+/* 隐藏 archived aside侧边栏头像下的 **/
+#aside-content .card-info-data a[href="/archives/"] {
+    display: none;
+}
